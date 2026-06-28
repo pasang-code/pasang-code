@@ -18,7 +18,7 @@
 
 ### 🛠️ Tech I work with
 
-### 🛠️ Tech I work with
+`Java` · `Spring Boot` · `JavaScript` · `HTML` · `CSS` · `MySQL` · `Git`
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,java,spring,mysql,git,idea&theme=dark" />
