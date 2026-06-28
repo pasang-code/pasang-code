@@ -1,22 +1,22 @@
-<h1 align="center">Hey, nice to meet you here — I'm Tenzi 👋</h1>
+<h1 align="center">Hey, nice to meet you here, I'm Tenzi 👋</h1>
 
 <p align="center">
-  Full-Stack & Front-End Developer in the making · Open to internship positions
+  Java & web developer · looking for an internship
 </p>
 
 ---
 
 ### 🧑‍💻 About me
 
--  Completing my **graduaat** studies at **Thomas More University of Applied Sciences**
--  Currently building projects with **Java, Spring Boot, and JavaScript**
--  Learning more about clean architecture, REST APIs, and responsive UI
--  **Open to internships** - front-end or full-stack - autumn of 2026 & spring of 2027
--  Reach me at **giatsotenzi@gmail.com**
+- Studying for my **graduaat** at **Thomas More University of Applied Sciences**
+- Most of my time goes into **Java and Spring Boot** right now, with **JavaScript** on the front end
+- Still figuring a lot out — currently getting the hang of REST APIs and writing code I won't hate later
+- **Looking for an internship** (front-end or full-stack) for **autumn 2026 or spring 2027**
+- Say hi: **giatsotenzi@gmail.com**
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech I work with
 
 **Front-end**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -34,13 +34,13 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Some things I've built
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**Project One**](#) | One-line summary of what it does and why it's cool | Spring Boot · MySQL |
-| [**Project Two**](#) | One-line summary | Java · JavaScript |
-| [**Portfolio Site**](https://www.pasanggiatso.be/) | My personal site & full story | HTML · CSS · JS |
+| Project | What it is | Built with |
+|---------|------------|------------|
+| [**Project One**](#) | _what it does, in one honest sentence_ | Spring Boot · MySQL |
+| [**Project Two**](#) | _same here_ | Java · JavaScript |
+| [**My website**](https://www.pasanggiatso.be/) | My portfolio and the longer story | HTML · CSS · JS |
 
 ---
 
@@ -54,5 +54,5 @@
 ---
 
 <p align="center">
-  💬 Open to internships and collaboration for autumn of 2026.
+  Always up for interesting projects — feel free to reach out 🙂
 </p>
