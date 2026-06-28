@@ -1,7 +1,7 @@
 <h1 align="center">Hey, nice to meet you here, I'm Tenzi 👋</h1>
 
 <p align="center">
-  Full-stack & front-end developer · Open for internships
+  Full-stack/front-end developer in the making · Open for internships
 </p>
 
 ---
