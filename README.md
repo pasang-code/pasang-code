@@ -32,4 +32,4 @@
 | [**My website**](https://www.pasanggiatso.be/) | My portfolio and the longer story | HTML · CSS · JS |
 
 ---
-Open to internships for autumn 2026 & spring 2027 — let's talk.
+<p align="center"> Open to internships for autumn 2026 & spring 2027 — let's talk.</p>
