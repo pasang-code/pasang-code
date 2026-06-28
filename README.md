@@ -27,19 +27,21 @@
     <td width="50%" valign="top">
       <h3>🛒 <a href="https://github.com/pasang-code/freshly">Freshly-groceries</a></h3>
       <p>Live webshop with product browsing and cart</p>
-      <p>
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white" />
-        <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
-      </p>
     </td>
     <td width="50%" valign="top">
       <h3>🌐 <a href="https://www.pasanggiatso.be/">My website</a></h3>
       <p>My portfolio and the longer story</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="bottom">
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
+    </td>
+    <td width="50%" valign="bottom">
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
     </td>
   </tr>
 </table>
