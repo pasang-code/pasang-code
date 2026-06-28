@@ -34,5 +34,5 @@
 
 
 <p align="center">
-  Thanks for reading this, see you in my repositories 🙂
+
 </p>
