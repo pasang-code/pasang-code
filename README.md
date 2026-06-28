@@ -12,7 +12,7 @@
 - 💻 Most of my time goes into **Java and Spring Boot** right now, with **JavaScript** on the front end
 - 🚧 Still figuring a lot out, currently getting the hang of REST APIs and writing code I won't hate later
 - 🤝 **Open for internships** (front-end or full-stack) for **autumn 2026 & spring 2027**
-- 💬 Reach me at: **giatsotenzi@gmail.com**
+- 📫 Reach me at: **giatsotenzi@gmail.com**
 ---
 
 ### 🛠️ Tech I work with
