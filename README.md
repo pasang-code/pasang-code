@@ -25,14 +25,14 @@
 
 ### 🚀 Some things I've built
 
-| Project | What it is | Built with |
+| Project | What it is | Tech |
 |---------|------------|------------|
-| [**Freshly-groceries**](#) | Live webshop with product browsing, cart, and checkout | Spring Boot · Java |
+| [**Freshly-groceries**](https://github.com/pasang-code/freshly) | Live webshop with product browsing, cart, and checkout | Spring Boot · Java |
 | [**My website**](https://www.pasanggiatso.be/) | My portfolio and the longer story | HTML · CSS · JS |
 
 ---
 
 
 <p align="center">
-  Always up for interesting projects — feel free to reach out 🙂
+  Thanks for reading this, see you in my repositories 🙂
 </p>
