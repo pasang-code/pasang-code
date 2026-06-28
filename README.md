@@ -1,6 +1,6 @@
-<h1 align="center">Hey, nice to meet you here, I'm Tenzi 👋</h1>
+<h1 ">Hey, nice to meet you here, I'm Tenzi 👋</h1>
 
-<p align="center">
+<p >
    Full-stack developer in the making · Open for internships
 </p>
 
