@@ -1,7 +1,7 @@
 <h1 align="center">Hey, nice to meet you here, I'm Tenzi 👋</h1>
 
 <p align="center">
-   Full-stack developer in the making · Open for internships
+   Full-stack developer · Open for internships
 </p>
 
 <br/>
@@ -31,5 +31,6 @@
 | [**Freshly-groceries**](https://github.com/pasang-code/freshly) | Live webshop with product browsing and cart | Spring Boot · Java |
 | [**My website**](https://www.pasanggiatso.be/) | My portfolio and the longer story | HTML · CSS · JS |
 
----
-<p align="center"> Open to internships for autumn 2026 & spring 2027</p>
+<br/>
+
+<p align="center">Always up for interesting projects — feel free to reach out 🙂</p>
