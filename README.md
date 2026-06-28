@@ -28,8 +28,8 @@
 
 | Project | What it is | Tech |
 |---------|------------|------|
-| [**Freshly-groceries**](https://github.com/pasang-code/freshly) | Live webshop with product browsing, cart, and checkout | Spring Boot · Java |
+| [**Freshly-groceries**](https://github.com/pasang-code/freshly) | Live webshop with product browsing and cart | Spring Boot · Java |
 | [**My website**](https://www.pasanggiatso.be/) | My portfolio and the longer story | HTML · CSS · JS |
 
 ---
-<p align="center"> Open to internships for autumn 2026 & spring 2027 — let's talk.</p>
+<p align="center"> Open to internships for autumn 2026 & spring 2027</p>
