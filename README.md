@@ -11,7 +11,7 @@
 -  Completing my **graduaat** studies at **Thomas More University of Applied Sciences**
 -  Currently building projects with **Java, Spring Boot, and JavaScript**
 -  Learning more about clean architecture, REST APIs, and responsive UI
--  **Open to internships** - front-end or full-stack - autumn 2026 & spring 2027
+-  **Open to internships** - front-end or full-stack - autumn of 2026 & spring of 2027
 -  Reach me at **giatsotenzi@gmail.com**
 
 ---
