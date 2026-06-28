@@ -30,3 +30,5 @@
 |---------|------------|------|
 | [**Freshly-groceries**](https://github.com/pasang-code/freshly) | Live webshop with product browsing, cart, and checkout | Spring Boot · Java |
 | [**My website**](https://www.pasanggiatso.be/) | My portfolio and the longer story | HTML · CSS · JS |
+<br/>
+Open to internships for autumn 2026 & spring 2027 — let's talk.
