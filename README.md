@@ -4,7 +4,7 @@
    Full-stack developer in the making · Open for internships
 </p>
 
----
+<br/>
 
 ### 🙋 About me
 
@@ -13,26 +13,20 @@
 - 🚧 Still figuring a lot out, currently getting the hang of REST APIs and writing code I won't hate later
 - 🤝 **Open for internships** (front-end or full-stack) for **autumn 2026 & spring 2027**
 - 💬 Reach me at: **giatsotenzi@gmail.com**
----
+
+<br/>
 
 ### 🛠️ Tech I work with
 
-<p >
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,js,java,spring,mysql,git,idea&theme=dark" />
 </p>
 
----
+<br/>
 
 ### 🚀 Some things I've built
 
 | Project | What it is | Tech |
-|---------|------------|------------|
+|---------|------------|------|
 | [**Freshly-groceries**](https://github.com/pasang-code/freshly) | Live webshop with product browsing, cart, and checkout | Spring Boot · Java |
 | [**My website**](https://www.pasanggiatso.be/) | My portfolio and the longer story | HTML · CSS · JS |
-
----
-
-
-<p align="center">
-
-</p>
