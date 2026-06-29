@@ -47,4 +47,4 @@
 
 <br/>
 
-<p align="center">Always up for interesting projects — feel free to reach out 🙂</p>
+<p align="center">Always up for interesting projects — feel free to reach out </p>
