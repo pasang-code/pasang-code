@@ -22,27 +22,11 @@
 
 ### 🚀 Some things I've built
 
-<table>
-  <tr>
-    <th align="left" width="25%">Project</th>
-    <th align="left" width="40%">What it is</th>
-    <th align="left" width="35%">Tech</th>
-  </tr>
-  <tr>
-    <td valign="top">
-      <a href="https://github.com/pasang-code/freshly">Freshly-groceries</a>
-    </td>
-    <td valign="top">Live webshop with product browsing and cart</td>
-    <td valign="top">Spring Boot · Java</td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <a href="https://www.pasanggiatso.be/">My website</a>
-    </td>
-    <td valign="top">My portfolio and the longer story</td>
-    <td valign="top">HTML · CSS · JavaScript</td>
-  </tr>
-</table>
+**[Freshly-groceries](https://github.com/pasang-code/freshly)** — Live webshop with product browsing and cart  
+`Spring Boot` · `Java`
+
+**[My website](https://www.pasanggiatso.be/)** — My portfolio and the longer story  
+`HTML` · `CSS` · `JavaScript`
 
 
 <br/>
