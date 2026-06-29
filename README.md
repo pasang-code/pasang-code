@@ -22,7 +22,29 @@
 
 ### 🚀 Some things I've built
 
-<table> <tr> <td width="50%" valign="top"> <h3>🛒 <a href="https://github.com/pasang-code/freshly">Freshly-groceries</a></h3> <p>Live webshop with product browsing and cart</p> <p> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" /> </p> </td> <td width="50%" valign="top"> <h3>🌐 <a href="https://www.pasanggiatso.be/">My website</a></h3> <p>My portfolio and the longer story</p> <p> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> </p> </td> </tr> </table>
+<table>
+  <tr>
+    <th align="left" width="25%">Project</th>
+    <th align="left" width="40%">What it is</th>
+    <th align="left" width="35%">Tech</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/pasang-code/freshly">Freshly-groceries</a>
+    </td>
+    <td valign="top">Live webshop with product browsing and cart</td>
+    <td valign="top">Spring Boot · Java</td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://www.pasanggiatso.be/">My website</a>
+    </td>
+    <td valign="top">My portfolio and the longer story</td>
+    <td valign="top">HTML · CSS · JavaScript</td>
+  </tr>
+</table>
+
+
 <br/>
 
 <p align="center">Always up for interesting projects — feel free to reach out 🙂</p>
