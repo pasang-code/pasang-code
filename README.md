@@ -1,4 +1,4 @@
-<h1 align="center">Hi, nice to see you, I'm Giatso 👋</h1>
+<h1 align="center">Hey, nice to see you, I'm Giatso 👋</h1>
 <p align="center">
    Full-stack developer · Open for internships (autumn 2026 & spring 2027)
 </p>
@@ -6,10 +6,10 @@
 
 ###  About me
 
-- 🏫 Completing my **graduaat Programmeren** at **Thomas More University of Applied Sciences**
+ 🏫 Completing my **graduaat Programmeren** at **Thomas More University of Applied Sciences**
    Most of my time goes into **Java and Spring Boot**, with **JavaScript** on the front end
    Still figuring a lot out — currently getting the hang of REST APIs and writing code I won't hate later 🤝 **Open for internships** (front-end or full-stack) for **autumn 2026 & spring 2027**
-- 💬 Reach me at **giatsotenzi@gmail.com** or for the longer story [pasanggiatso.be](https://www.pasanggiatso.be/)
+ 💬 Reach me at **giatsotenzi@gmail.com** or for the longer story [pasanggiatso.be](https://www.pasanggiatso.be/)
 
 <br/>
 
