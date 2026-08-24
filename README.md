@@ -1,4 +1,4 @@
-<h1 align="center">Hey, nice to see you, I'm Giatso 👋</h1>
+<h1 align="center">Hey, nice to meet you, I'm Giatso 👋</h1>
 <p align="center">
    Full-stack developer · Open for internships (autumn 2026 & spring 2027)
 </p>
